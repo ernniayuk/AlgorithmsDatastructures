@@ -1,1 +1,3 @@
 # AlgorithmsDatastructures
+This repository is dedicated to tracking my data structures and algorithms practice in Python, showcasing my journey through problem-solving, optimization techniques, and computational thinking. Here, I document my progress with implementations of classic algorithms, LeetCode challenges, and system design concepts—all structured for clarity and efficiency. Each solution includes time/space complexity analysis and test cases, reflecting my commitment to mastering both theoretical foundations and practical applications. From binary trees to dynamic programming, this evolving collection demonstrates my growth as a disciplined problem-solver ready for technical interviews and real-world engineering challenges.
+
